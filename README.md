@@ -21,4 +21,6 @@
 [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
 
 [Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss](https://arxiv.org/abs/2302.05027)
+
+
 [Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images (UDIS)](https://github.com/nie-lang/UnsupervisedDeepImageStitching)
