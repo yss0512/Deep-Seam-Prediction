@@ -38,7 +38,10 @@
 
 
 ### 문제점
-학습 중에 loss가 더이상 감소하지 않는 문제가 발생했습니다. 혼자서 시도하다보니 몇 가지 문제점을 발견했는데, 주로 입력 이미지 처리나 loss 계산 식이 모호할 가능성이 큽니다. 또는 epoch 수가 충분하지 않아서 발생할 수도 있습니다. 이 문제를 해결할 수 있는 방법을 아시는 분은 연락 주시면 감사하겠습니다.
+학습 중에 loss가 더이상 감소하지 않는 문제가 발생했습니다. 혼자서 시도하다보니 몇 가지 문제점을 발견했는데, 주로 입력 이미지 처리나 loss 계산 식이 모호할 가능성이 큽니다. 또는 epoch 수가 충분하지 않아서 발생할 수도 있습니다.
+
+### checkpoint
+[https://drive.google.com/drive/folders/1F7A-aJzc6g6NtBtRoyRoXqoa5SXAXA7M](https://drive.google.com/drive/folders/1F7A-aJzc6g6NtBtRoyRoXqoa5SXAXA7M)
 
 ### 참고
 [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
